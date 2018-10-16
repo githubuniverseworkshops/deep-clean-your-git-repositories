@@ -22,3 +22,6 @@ _Welcome! :wave: This is the source repository for the [Deep clean your Git repo
   - https://github.com/universeworkshops/deep-clean-exercise4
 - :point_right: Log in to **GitHub** before the workshop begins!
 - :point_right: Optional: Bring your **own repo** for analysis.
+
+#### Slides
+-  [GitHub Universe 2018 Workshop Slides](deep-clean-workshop.pdf)
